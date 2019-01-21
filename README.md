@@ -1,3 +1,4 @@
 # jstesting
-Unit testing exercises using JEST
+Unit testing and coverage testing exercises using JEST
+
 

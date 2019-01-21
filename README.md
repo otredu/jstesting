@@ -1,3 +1,3 @@
 # jstesting
-Unit testing exercises using JEST
+JavaScript unit testing exercises using JEST
 
